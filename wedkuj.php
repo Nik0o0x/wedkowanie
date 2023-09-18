@@ -51,7 +51,7 @@
                 </tr>
                 <tr>
                     <td>5</td>
-                    <td>Karaś</td>
+                    <td>Karas</td>
                     <td></td>
                 </tr>
                 <tr>
