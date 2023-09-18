@@ -1,0 +1,80 @@
+
+body, h1, p, ul, th, td {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+#kolor {
+    background-color: #00838F;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+
+
+.lewy1  {
+    background-color: #EFEFEF;
+    width: 55%;
+    padding: 5px;
+    margin-top: 0%;
+    box-sizing: content-box;
+}
+.lewy2  {
+    background-color: #EFEFEF;
+    width: 55%;
+    padding: 5px;
+    margin-top: 0%;
+    box-sizing: content-box;
+}
+.prawy{
+    background-color: #4FB3BF;
+    width: 40%;
+    text-align: center;
+    padding: 5px;
+    font-size: 130%;
+    float: right;
+}
+
+h3{
+    margin-top: 3%;
+    font-size: 130%;
+}
+h4{
+    margin-top: 30%;
+    font-size: 130%;
+}
+
+.zdj{
+    box-shadow: 10px 10px 7px DimGray;
+    margin: 20px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+
+.table th, .table td {
+    border: 1px solid #4FB3BF;
+    padding: 4px;
+    text-align: center;
+}
+
+.table tr:hover {
+    background-color: #4FB3BF;
+}
+.stopka {
+    padding: 5px;
+    text-align: center;
+    font-size: 130%;
+    background-color: #00838F;
+    height: 50px;
+}
